@@ -1,6 +1,5 @@
-# CRUD application in GO or GO Lang
+# BlockChain in GO or GO Lang
 
-This is basic CRUD app, whihc uses to GO/Go Lang as web server. MySql is used as Databse to store records and for Front end I am using Plain old AngularJs.
 
 ## Installtion
 
